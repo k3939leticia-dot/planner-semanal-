@@ -1,0 +1,102 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: linear-gradient(to right, #74ebd5, #acb6e5);
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.container div {
+    padding: 15px;
+    margin: 10px;
+    border-radius: 12px;
+    width: 220px;
+
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    transition: 0.3s;
+}
+.container div:hover {
+    transform: scale(1.03);
+}
+.container button {
+    background: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+.container button:houver{
+    background: #45a049;
+}
+
+input {
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+ul {
+    padding: 0;
+}
+
+li {
+    list-style: none;
+    margin-top: 5px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+li button {
+    background: none;
+    border: none;
+    font-size: 16px;
+    cursor: pointer;
+    opacity: 0.6;
+}
+li button:hover {
+    opacity: 1;
+    transform: scale(1.2);
+    color: #555;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.segunda {
+    background: #f0ee80;
+}
+
+.terca {
+    background: #7acab9;
+}
+
+.quarta {
+    background: #c6b4df;
+}
+
+.quinta {
+    background: #d4edda;
+}
+
+.sexta {
+    background: #ffe5b4;
+}
+
+.sabado {
+    background: #f06f7a;
+}
+
+.domingo {
+    background: #fce4ec;
+}

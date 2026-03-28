@@ -1,2 +1,11 @@
 # planner-semanal-
-Planner semanal desenvolvido em HTML, CSS e JavaScript. Permite adicionar, concluir e remover tarefas com armazenamento local. 
+Projeto desenvolvido com HTML, CSS E JavaScript. 
+# Funcionalidades 
+- Adicionar tarefas 
+- Marcar como concluídas 
+- Remover tarefas
+- Armazenamento local (salvar mesmo ao atualizar) 
+# Objetivo 
+Praticar lógica de programação e desenvolvimento web 
+
+Feito por mim 💙
